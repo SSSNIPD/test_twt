@@ -1,4 +1,3 @@
-# Hello
+# hello
 
-
-# Hi
+# hi
